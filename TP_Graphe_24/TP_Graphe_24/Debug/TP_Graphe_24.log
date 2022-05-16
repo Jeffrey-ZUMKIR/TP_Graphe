@@ -1,0 +1,9 @@
+﻿  main.cpp
+D:\Home\Documents\Ludus B\Algo\C++\Graphe\TP_Graphe_24\TP_Graphe_24\main.cpp(77,24): warning C4018: '<' : incompatibilité signed/unsigned
+D:\Home\Documents\Ludus B\Algo\C++\Graphe\TP_Graphe_24\TP_Graphe_24\main.cpp(86,25): warning C4018: '<' : incompatibilité signed/unsigned
+D:\Home\Documents\Ludus B\Algo\C++\Graphe\TP_Graphe_24\TP_Graphe_24\main.cpp(88,11): warning C4018: '<' : incompatibilité signed/unsigned
+D:\Home\Documents\Ludus B\Algo\C++\Graphe\TP_Graphe_24\TP_Graphe_24\main.cpp(144,24): warning C4018: '<' : incompatibilité signed/unsigned
+D:\Home\Documents\Ludus B\Algo\C++\Graphe\TP_Graphe_24\TP_Graphe_24\main.cpp(156,23): warning C4018: '<' : incompatibilité signed/unsigned
+D:\Home\Documents\Ludus B\Algo\C++\Graphe\TP_Graphe_24\TP_Graphe_24\main.cpp(158,24): warning C4018: '<' : incompatibilité signed/unsigned
+D:\Home\Documents\Ludus B\Algo\C++\Graphe\TP_Graphe_24\TP_Graphe_24\main.cpp(173,23): warning C4018: '<' : incompatibilité signed/unsigned
+  TP_Graphe_24.vcxproj -> D:\Home\Documents\Ludus B\Algo\C++\Graphe\TP_Graphe_24\Debug\TP_Graphe_24.exe
