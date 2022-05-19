@@ -139,11 +139,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="CListe.cpp" />
+    <ClCompile Include="CListeArc.cpp" />
+    <ClCompile Include="CListeSom.cpp" />
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="CListe.h" />
+    <ClInclude Include="CListeArc.h" />
+    <ClInclude Include="CListeSom.h" />
     <ClInclude Include="define.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

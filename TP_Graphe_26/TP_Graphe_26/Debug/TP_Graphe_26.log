@@ -1,0 +1,4 @@
+﻿  CListeSom.cpp
+D:\Home\Documents\Ludus B\Algo\C++\Graphe\TP_Graphe\TP_Graphe_26\TP_Graphe_26\CListeSom.cpp(107,26): warning C4018: '<' : incompatibilité signed/unsigned
+D:\Home\Documents\Ludus B\Algo\C++\Graphe\TP_Graphe\TP_Graphe_26\TP_Graphe_26\CListeSom.cpp(141,25): warning C4018: '<' : incompatibilité signed/unsigned
+  TP_Graphe_26.vcxproj -> D:\Home\Documents\Ludus B\Algo\C++\Graphe\TP_Graphe\TP_Graphe_26\Debug\TP_Graphe_26.exe

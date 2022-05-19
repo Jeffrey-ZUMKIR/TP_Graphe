@@ -1,4 +1,5 @@
 #pragma once
+//#include "CListeArc.h"
 
 /*typedef struct Sommet {
 	unsigned int id;
@@ -15,6 +16,7 @@ typedef struct Reseau {
 typedef struct CellSommet {
 	int n_val;
 	struct CellArc* liste_arcs; //Liste des arcs du sommet
+	//ListeArc liste_arcs;
 	struct CellSommet* suivant; //Pointeur vers sommet suivant
 }TypeSommet;
 
